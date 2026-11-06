@@ -1,0 +1,14 @@
+{
+  "name": "n8n-automation-templates",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Four importable n8n workflows: website form to CRM with AI reply, lead scoring and routing, weekly Google reviews summary, invoice email to Sheets.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Vixon Lab"
+}
